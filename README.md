@@ -7,7 +7,6 @@
 <p align="center">
   Kang You<sup>1,†</sup>,
   Jiahao Zhu<sup>1,†</sup>,
-  Tong Chen<sup>1</sup>,
   Dandan Ding<sup>2</sup>,
   M. Salman Asif<sup>3</sup>,
   Zhan Ma<sup>1,*</sup>
